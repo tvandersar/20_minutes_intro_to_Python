@@ -1,1 +1,1 @@
-# 20_minutes_intro_to_Python
+# A very short and basic introduction to Python
